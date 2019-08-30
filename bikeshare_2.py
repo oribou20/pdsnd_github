@@ -1,3 +1,5 @@
+#Welcome to the bikeshare analysis project. I hope you find this interesting
+
 import time
 import pandas as pd
 import numpy as np
