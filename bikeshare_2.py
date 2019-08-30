@@ -1,3 +1,7 @@
+#Welcome to the bikeshare analysis project. I hope you find this interesting
+
+#In terms of next steps it would be great to expand the statistics run over the project to include things such as correlation analysis, regression test etc.
+
 import time
 import pandas as pd
 import numpy as np
